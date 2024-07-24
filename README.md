@@ -1,4 +1,4 @@
-# Hi, I'm Darshankumar!
+# Hi, I'm Darshankumar! <br/><a href="https://github.com/sparkkplug">Aspiring Data Analyst</a>, <a href="https://t.me/purelylearningnifty">Swing Trader</a>
 
 ## 👨‍💻 Data Analytics Projects:
 
