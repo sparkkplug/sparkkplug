@@ -16,6 +16,7 @@
 ## 📺 Certifications:
 
 - **Data Analyst Certifications**
+  - [Data Analyst Bootcamp 3.0 with AI Module](https://codebasics.io/certificate/image/CB-BT-1-209813)
   - [Microsoft Power BI](https://codebasics.io/certificate/image/CB-49-209813)
   - [Microsoft Excel](https://codebasics.io/certificate/image/CB-51-209813)
   - [MySQL](https://codebasics.io/certificate/image/CB-50-209813)
