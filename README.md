@@ -8,7 +8,7 @@
 
 - **MySQL**
   - [Finance & Supply Chain Analysis](https://github.com/sparkkplug/sql_finance_supplychain)
-  - [Ad-hoc Insights to Consumer Goods Executives](https://github.com/sparkkplug/SQL_Projects/tree/main/2.%20ADHOC%20Insights%20to%20Consumer%20Goods%20Executives)
+  - [Ad-hoc Insights to Consumer Goods Executives](https://github.com/sparkkplug/sql_consumer_goods)
 
 - **Microsoft Excel**
   - [Sales and Finance Insights](https://github.com/sparkkplug/Excel_Projects)
