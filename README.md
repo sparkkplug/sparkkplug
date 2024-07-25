@@ -4,7 +4,7 @@
 
 - **Microsoft Power BI**
   - [Business Insights 360 Report](https://github.com/sparkkplug/bi_business_insights_360)
-  - [Business Performance for Insurance Domain](https://github.com/sparkkplug/Power_BI_Projects/tree/main/3.%20Virtual%20Internship%20Insurance%20Project)
+  - [Business Performance for Insurance Domain](https://github.com/sparkkplug/bi_shield_insurance_virtual_internship)
 
 - **MySQL**
   - [Finance & Supply Chain Analysis](https://github.com/sparkkplug/SQL_Projects/tree/main/1.%20ADHOC%20Insights%20to%20Executive%20Management)
