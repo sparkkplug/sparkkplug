@@ -23,5 +23,5 @@
 
 ## 🌐 Connect with me:
 
-[<img align="left" alt="Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/purelylearningnifty)
+[<img align="left" alt="Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/marketscout)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/darshankumar-varu-53abb717a)
