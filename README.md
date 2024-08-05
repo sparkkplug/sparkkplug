@@ -12,6 +12,7 @@
 
 - **Microsoft Excel**
   - [Sales and Finance Insights](https://github.com/sparkkplug/Excel_Projects)
+  - [Coffee Shop Sales Analysis](https://github.com/sparkkplug/excel_coffee_shop)
 
 ## 📜 Certifications:
 
